@@ -1,3 +1,4 @@
+## Data
 ### Creating a Dataset from Scratch
 Consider using a Chrome extension such as [Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm?hl=en) which lets you search and download images from Google Images. 
 
