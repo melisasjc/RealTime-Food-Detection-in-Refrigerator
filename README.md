@@ -35,7 +35,7 @@ and follow the installation instructions. Note that this repo has only been test
 To speed up training, it is recommended to use a **GPU with CUDA** support. For example on [AWS](/2_Training/AWS/) you can use a `p2.xlarge` instance (Tesla K80 GPU with 12GB memory). Inference is very fast even on a CPU with approximately ~2 images per second. If you want to use your own machine, follow the instructions at [tensorflow.org/install/gpu](https://www.tensorflow.org/install/gpu) to install CUDA drivers. Make sure to install the [correct version of CUDA and cuDNN](https://www.tensorflow.org/install/source#linux). 
 
 ## Quick Start (Inference only)
-To test the object on web-cam run the+ [`object_detection.ipynb`](/object_detection.ipynb/) script in the root folder with:
+To test the object on web-cam run the + [`object_detection.ipynb`](/object_detection.ipynb/) script in the root folder with:
 
 ```bash
 python object_detection.ipynb
