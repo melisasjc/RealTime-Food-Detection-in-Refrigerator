@@ -38,6 +38,6 @@ To test the object on web-cam run the `object_detection.ipynb` script in the roo
 python object_detection.ipynb
 ```
 
-The outputs are saved in . This includes:
+The outputs are saved in [`RealTime-Food-Detection-in-Refrigerator/Output/Source_Images`](/Output) . This includes:
  - Food Item pictures with bounding boxes around it with confidence scores.
   
