@@ -38,6 +38,6 @@ To test the object on web-cam run the `object_detection.ipynb` script in the roo
 python object_detection.ipynb
 ```
 
-The outputs are saved in [`TrainYourOwnYOLO/Data/Source_Images/Test_Image_Detection_Results`](/Data/Source_Images/Test_Image_Detection_Results). This includes:
+The outputs are saved in . This includes:
  - Food Item pictures with bounding boxes around it with confidence scores.
   
