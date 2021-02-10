@@ -13,7 +13,6 @@ To build and test your YOLO object detection algorithm follow the below steps:
 	 - Install LabelImg
 	 - Annotate images
  3. [Training](/3_Training/)
- 	- Download pre-trained weights
  	- Train your custom YOLO model on annotated images 
  4. [Inference](/4_Inference/)
  	- Detect objects real time using web-cam
