@@ -6,7 +6,7 @@ This repo let's you train a custom food object detector using the  YOLOv3 comput
 
 To build and test your YOLO object detection algorithm follow the below steps:
  
- 1. [Download Images](/1_Download Images/)
+ 1. [Download Images](/1_Download_Images/)
 	 - "Download All Images" is a chrome extension
 	 - Downloads all images from a web page and packs them into a zip file.
  2. [Image Annotation](/2_Image_Annotation/)
