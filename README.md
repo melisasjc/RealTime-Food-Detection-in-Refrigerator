@@ -16,6 +16,10 @@ To build and test your YOLO object detection algorithm follow the below steps:
  	- Train your custom YOLO model on annotated images 
  4. [Inference](/4_Inference/)
  	- Detect objects real time using web-cam
+	
+## Repo structure
++ [`1_Image_Annotation`](/Image_Annotation/): Scripts and instructions on annotating images
++ [`Output`](/Output/): Video Recording of the Results
  
 ## Getting Started
 
