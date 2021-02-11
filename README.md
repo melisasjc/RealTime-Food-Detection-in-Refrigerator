@@ -43,4 +43,7 @@ python object_detection.ipynb
 
 The outputs are saved in [`RealTime-Food-Detection-in-Refrigerator/Output/Source_Images`](/Output) . This includes:
  - Food Item pictures with bounding boxes around it with confidence scores.
+ 
+## Project Presentation
+https://docs.google.com/presentation/d/1R75a0XO8QiATI7CTDPDel-nqbtIoqYfT69kaFeNLAt8/edit#slide=id.gc6f972163_0_0
   
